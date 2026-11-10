@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="1453casino/1453casino.vcxproj" Id="9fd24941-92e3-4043-b8f7-5c4622075d5a" />
+</Solution>
